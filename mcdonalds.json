@@ -1,0 +1,2176 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.56408,
+          25.03349
+        ]
+      },
+      "properties": {
+        "name": "台北新101",
+        "shortDescription": "#425 New Taipei 101",
+        "longDescription": "New Taipei 101",
+        "todayHours": "08:00 - 21:30",
+        "id": "195500753577:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK"
+        ],
+        "addressLine1": "台北市信義區市府路45號B1",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "110",
+        "customAddress": ", 110",
+        "telephone": "(02)8101-7708       ",
+        "restauranthours": {
+          "hoursMonday": "08:00 - 21:30",
+          "hoursTuesday": "08:00 - 21:30",
+          "hoursWednesday": "08:00 - 21:30",
+          "hoursThursday": "08:00 - 21:30",
+          "hoursFriday": "08:00 - 22:00",
+          "hoursSaturday": "08:00 - 22:00",
+          "hoursSunday": "08:00 - 21:30"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030425"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030425",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5668736,
+          25.03897676
+        ]
+      },
+      "properties": {
+        "name": "新光信義",
+        "shortDescription": "#363 Mitsukoshi-Sin Yi, Taipei",
+        "longDescription": "Mitsukoshi-Sin Yi, Taipei",
+        "todayHours": "11:00 - 21:30",
+        "id": "195500094663:zh-TW",
+        "filterType": [
+          "GIFTCARDS",
+          "MCCAFE"
+        ],
+        "addressLine1": "台北市信義區松高路12號B2",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "110",
+        "customAddress": ", 110",
+        "telephone": "(02)8789-6315       ",
+        "restauranthours": {
+          "hoursMonday": "11:00 - 21:30",
+          "hoursTuesday": "11:00 - 21:30",
+          "hoursWednesday": "11:00 - 21:30",
+          "hoursThursday": "11:00 - 21:30",
+          "hoursFriday": "11:00 - 22:00",
+          "hoursSaturday": "11:00 - 22:00",
+          "hoursSunday": "11:00 - 21:30"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030363"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030363",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.565609,
+          25.039525
+        ]
+      },
+      "properties": {
+        "name": "信義誠品",
+        "shortDescription": "#430 Eslite-Sin Yi, Taipei",
+        "longDescription": "Eslite-Sin Yi, Taipei",
+        "todayHours": "07:00 - 22:00",
+        "id": "195500758411:zh-TW",
+        "filterType": [
+          "BREAKFAST",
+          "CONTACTLESS",
+          "GIFTCARDS",
+          "MCCAFE"
+        ],
+        "addressLine1": "台北市信義區松高路11號B2",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "110",
+        "customAddress": ", 110",
+        "telephone": "(02)2723-0015       ",
+        "restauranthours": {
+          "hoursMonday": "07:00 - 22:00",
+          "hoursTuesday": "07:00 - 22:00",
+          "hoursWednesday": "07:00 - 22:00",
+          "hoursThursday": "07:00 - 22:00",
+          "hoursFriday": "07:00 - 23:00",
+          "hoursSaturday": "07:00 - 23:00",
+          "hoursSunday": "07:00 - 22:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030430"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030430",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5681264,
+          25.02685566
+        ]
+      },
+      "properties": {
+        "name": "台北莊敬(含現烤法點)",
+        "shortDescription": "#340 Jhuang Jing, Taipei",
+        "longDescription": "Jhuang Jing, Taipei",
+        "todayHours": "00:00 - 00:00",
+        "id": "195500094427:zh-TW",
+        "filterType": [
+          "3rd party reusable cup",
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "TWENTYFOURHOURS",
+          "WIFI"
+        ],
+        "addressLine1": "台北市信義區莊敬路475號1樓",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "110",
+        "customAddress": ", 110",
+        "telephone": "(02)8780-0218       ",
+        "restauranthours": {
+          "hoursMonday": "00:00 - 00:00",
+          "hoursTuesday": "00:00 - 00:00",
+          "hoursWednesday": "00:00 - 00:00",
+          "hoursThursday": "00:00 - 00:00",
+          "hoursFriday": "00:00 - 00:00",
+          "hoursSaturday": "00:00 - 00:00",
+          "hoursSunday": "00:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030340"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030340",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.557442,
+          25.0395426
+        ]
+      },
+      "properties": {
+        "name": "台北光復(含現烤法點)",
+        "shortDescription": "#006 Guang Fu, Taipei",
+        "longDescription": "Guang Fu, Taipei",
+        "todayHours": "00:00 - 00:00",
+        "id": "195500094038:zh-TW",
+        "filterType": [
+          "3rd party reusable cup",
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "TWENTYFOURHOURS",
+          "WIFI"
+        ],
+        "addressLine1": "台北市大安區光復南路286號",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "106",
+        "customAddress": ", 106",
+        "telephone": "(02)2741-5210       ",
+        "restauranthours": {
+          "hoursMonday": "00:00 - 00:00",
+          "hoursTuesday": "00:00 - 00:00",
+          "hoursWednesday": "00:00 - 00:00",
+          "hoursThursday": "00:00 - 00:00",
+          "hoursFriday": "00:00 - 00:00",
+          "hoursSaturday": "00:00 - 00:00",
+          "hoursSunday": "00:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030006"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030006",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.554527,
+          25.03335013
+        ]
+      },
+      "properties": {
+        "name": "台北信義",
+        "shortDescription": "#106 Sin Yi, Taipei",
+        "longDescription": "Sin Yi, Taipei",
+        "todayHours": "06:00 - 00:00",
+        "id": "195500097312:zh-TW",
+        "filterType": [
+          "3rd party reusable cup",
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "WIFI"
+        ],
+        "addressLine1": "台北市大安區信義路4段273號1樓",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "106",
+        "customAddress": ", 106",
+        "telephone": "(02)2703-8921       ",
+        "restauranthours": {
+          "hoursMonday": "06:00 - 00:00",
+          "hoursTuesday": "06:00 - 00:00",
+          "hoursWednesday": "06:00 - 00:00",
+          "hoursThursday": "06:00 - 00:00",
+          "hoursFriday": "06:00 - 00:00",
+          "hoursSaturday": "06:00 - 00:00",
+          "hoursSunday": "06:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030106"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030106",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.57917,
+          25.0413397
+        ]
+      },
+      "properties": {
+        "name": "忠孝四",
+        "shortDescription": "#108 Jhong Siao IV, Taipei",
+        "longDescription": "Jhong Siao IV, Taipei",
+        "todayHours": "00:00 - 00:00",
+        "id": "195500097336:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "TWENTYFOURHOURS",
+          "WIFI"
+        ],
+        "addressLine1": "台北市信義區忠孝東路5段522號1樓",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "110",
+        "customAddress": ", 110",
+        "telephone": "(02)2759-5793       ",
+        "restauranthours": {
+          "hoursMonday": "00:00 - 00:00",
+          "hoursTuesday": "00:00 - 00:00",
+          "hoursWednesday": "00:00 - 00:00",
+          "hoursThursday": "00:00 - 00:00",
+          "hoursFriday": "00:00 - 00:00",
+          "hoursSaturday": "00:00 - 00:00",
+          "hoursSunday": "00:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030108"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030108",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5580079,
+          25.01833273
+        ]
+      },
+      "properties": {
+        "name": "台北麟光",
+        "shortDescription": "#167 Lin Guang, Taipei",
+        "longDescription": "Lin Guang, Taipei",
+        "todayHours": "06:00 - 00:00",
+        "id": "195500096971:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "WIFI"
+        ],
+        "addressLine1": "台北市大安區和平東路3段406巷8號1樓",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "106",
+        "customAddress": ", 106",
+        "telephone": "(02)2377-1063       ",
+        "restauranthours": {
+          "hoursMonday": "06:00 - 00:00",
+          "hoursTuesday": "06:00 - 00:00",
+          "hoursWednesday": "06:00 - 00:00",
+          "hoursThursday": "06:00 - 00:00",
+          "hoursFriday": "06:00 - 00:00",
+          "hoursSaturday": "06:00 - 00:00",
+          "hoursSunday": "06:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030167"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030167",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.563076,
+          25.051223
+        ]
+      },
+      "properties": {
+        "name": "台北南京二",
+        "shortDescription": "#302 Nan Jing II, Taipei",
+        "longDescription": "Nan Jing II, Taipei",
+        "todayHours": "00:00 - 00:00",
+        "id": "195500095479:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "TWENTYFOURHOURS",
+          "WIFI"
+        ],
+        "addressLine1": "台北市松山區南京東路5段162號1樓",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "105",
+        "customAddress": ", 105",
+        "telephone": "(02)2768-9449       ",
+        "restauranthours": {
+          "hoursMonday": "00:00 - 00:00",
+          "hoursTuesday": "00:00 - 00:00",
+          "hoursWednesday": "00:00 - 00:00",
+          "hoursThursday": "00:00 - 00:00",
+          "hoursFriday": "00:00 - 00:00",
+          "hoursSaturday": "00:00 - 00:00",
+          "hoursSunday": "00:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030302"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030302",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5469866,
+          25.04198702
+        ]
+      },
+      "properties": {
+        "name": "忠孝五",
+        "shortDescription": "#144 Jhoung Siao V, Taipei",
+        "longDescription": "Jhoung Siao V, Taipei",
+        "todayHours": "06:00 - 00:00",
+        "id": "195500096766:zh-TW",
+        "filterType": [
+          "3rd party reusable cup",
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "WIFI"
+        ],
+        "addressLine1": "台北市大安區忠孝東路4段73號之一1樓",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "106",
+        "customAddress": ", 106",
+        "telephone": "(02)2772-6530       ",
+        "restauranthours": {
+          "hoursMonday": "00:00 - 00:00",
+          "hoursTuesday": "06:00 - 00:00",
+          "hoursWednesday": "00:00 - 00:00",
+          "hoursThursday": "00:00 - 00:00",
+          "hoursFriday": "00:00 - 00:00",
+          "hoursSaturday": "00:00 - 00:00",
+          "hoursSunday": "00:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030144"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030144",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.57796,
+          25.04927
+        ]
+      },
+      "properties": {
+        "name": "松山車站(含現烤法點)",
+        "shortDescription": "#466 Songshan Station, Taipei",
+        "longDescription": "Songshan Station Taipei",
+        "todayHours": "06:00 - 00:00",
+        "id": "195500800288:zh-TW",
+        "filterType": [
+          "BREAKFAST",
+          "GIFTCARDS",
+          "MCCAFE"
+        ],
+        "addressLine1": "台北市信義區松山路11號一樓商場",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "105",
+        "customAddress": ", 105",
+        "telephone": "(02)2742-0575       ",
+        "restauranthours": {
+          "hoursMonday": "06:00 - 00:00",
+          "hoursTuesday": "06:00 - 00:00",
+          "hoursWednesday": "06:00 - 00:00",
+          "hoursThursday": "06:00 - 00:00",
+          "hoursFriday": "06:00 - 00:00",
+          "hoursSaturday": "06:00 - 00:00",
+          "hoursSunday": "06:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030466"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030466",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5436483,
+          25.02567103
+        ]
+      },
+      "properties": {
+        "name": "復興二",
+        "shortDescription": "#362 Fu Sing II, Taipei",
+        "longDescription": "Fu Sing II, Taipei",
+        "todayHours": "00:00 - 00:00",
+        "id": "195500094656:zh-TW",
+        "filterType": [
+          "3rd party reusable cup",
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "TWENTYFOURHOURS",
+          "WIFI"
+        ],
+        "addressLine1": "台北市大安區復興南路二段273號",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "106",
+        "customAddress": ", 106",
+        "telephone": "(02)2754-7577       ",
+        "restauranthours": {
+          "hoursMonday": "00:00 - 00:00",
+          "hoursTuesday": "00:00 - 00:00",
+          "hoursWednesday": "00:00 - 00:00",
+          "hoursThursday": "00:00 - 00:00",
+          "hoursFriday": "00:00 - 00:00",
+          "hoursSaturday": "00:00 - 00:00",
+          "hoursSunday": "00:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030362"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030362",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.552786,
+          25.052076
+        ]
+      },
+      "properties": {
+        "name": "台北南京六(含現烤法點)",
+        "shortDescription": "#527 Nan Jing VI, Taipei",
+        "longDescription": "Nan Jing VI, Taipei",
+        "todayHours": "06:00 - 00:00",
+        "id": "195500884554:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "WIFI"
+        ],
+        "addressLine1": "台北巿松山區南京東路四段57號",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "105",
+        "customAddress": ", 105",
+        "telephone": "(02)2717-0738",
+        "restauranthours": {
+          "hoursMonday": "06:00 - 00:00",
+          "hoursTuesday": "06:00 - 00:00",
+          "hoursWednesday": "06:00 - 00:00",
+          "hoursThursday": "06:00 - 00:00",
+          "hoursFriday": "06:00 - 00:00",
+          "hoursSaturday": "06:00 - 00:00",
+          "hoursSunday": "06:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030527"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030527",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5660655,
+          25.0589364
+        ]
+      },
+      "properties": {
+        "name": "台北民生二",
+        "shortDescription": "#150 Min Sheng II, Taipei",
+        "longDescription": "Min Sheng II, Taipei",
+        "todayHours": "06:00 - 00:00",
+        "id": "195500096810:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "WIFI"
+        ],
+        "addressLine1": "台北市松山區民生東路5段234號1樓",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "105",
+        "customAddress": ", 105",
+        "telephone": "(02)2747-1086       ",
+        "restauranthours": {
+          "hoursMonday": "06:00 - 00:00",
+          "hoursTuesday": "06:00 - 00:00",
+          "hoursWednesday": "06:00 - 00:00",
+          "hoursThursday": "06:00 - 00:00",
+          "hoursFriday": "06:00 - 00:00",
+          "hoursSaturday": "06:00 - 00:00",
+          "hoursSunday": "06:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030150"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030150",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.543288,
+          25.05172
+        ]
+      },
+      "properties": {
+        "name": "台北南京五(含現烤法點)",
+        "shortDescription": "#474 Nan Jing V, Taipei",
+        "longDescription": "Nan Jing V, Taipei",
+        "todayHours": "06:00 - 00:00",
+        "id": "195500821597:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "WIFI"
+        ],
+        "addressLine1": "台北市中山區南京東路三段210之1號",
+        "addressLine3": "台北市",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "104",
+        "customAddress": "台北市, 104",
+        "telephone": "(02)2751-5390       ",
+        "restauranthours": {
+          "hoursMonday": "06:00 - 00:00",
+          "hoursTuesday": "06:00 - 00:00",
+          "hoursWednesday": "06:00 - 00:00",
+          "hoursThursday": "06:00 - 00:00",
+          "hoursFriday": "06:00 - 00:00",
+          "hoursSaturday": "06:00 - 00:00",
+          "hoursSunday": "06:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030474"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030474",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5484573,
+          25.0580008
+        ]
+      },
+      "properties": {
+        "name": "台北民生旗艦專櫃(含現烤法點)",
+        "shortDescription": "#001 Min Sheng, Taipei",
+        "longDescription": "Min Sheng, Taipei",
+        "todayHours": "06:00 - 00:00",
+        "id": "195500097251:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "WIFI"
+        ],
+        "addressLine1": "台北市松山區民生東路3段135號",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "105",
+        "customAddress": ", 105",
+        "telephone": "(02)2713-0715       ",
+        "restauranthours": {
+          "hoursMonday": "06:00 - 00:00",
+          "hoursTuesday": "06:00 - 00:00",
+          "hoursWednesday": "06:00 - 00:00",
+          "hoursThursday": "06:00 - 00:00",
+          "hoursFriday": "06:00 - 00:00",
+          "hoursSaturday": "06:00 - 00:00",
+          "hoursSunday": "06:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030001"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030001",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.57925409,
+          25.06069324
+        ]
+      },
+      "properties": {
+        "name": "台北舊宗旗艦專櫃(含現烤法點)",
+        "shortDescription": "#450 Jiou Zong, Taipei",
+        "longDescription": "Jiou Zong, Taipei",
+        "todayHours": "06:00 - 02:00",
+        "driveTodayHours": "00:00 - 00:00",
+        "id": "195500788661:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "DRIVETHRU",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "TWENTYFOURHOURS",
+          "WIFI"
+        ],
+        "addressLine1": "台北市內湖區舊宗路一段135號",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "114",
+        "customAddress": ", 114",
+        "telephone": "(02) 2796-0708      ",
+        "restauranthours": {
+          "hoursMonday": "06:00 - 02:00",
+          "hoursTuesday": "06:00 - 02:00",
+          "hoursWednesday": "06:00 - 02:00",
+          "hoursThursday": "06:00 - 02:00",
+          "hoursFriday": "06:00 - 02:00",
+          "hoursSaturday": "06:00 - 02:00",
+          "hoursSunday": "06:00 - 02:00"
+        },
+        "drivethruhours": {
+          "driveHoursMonday": "00:00 - 00:00",
+          "driveHoursTuesday": "00:00 - 00:00",
+          "driveHoursWednesday": "00:00 - 00:00",
+          "driveHoursThursday": "00:00 - 00:00",
+          "driveHoursFriday": "00:00 - 00:00",
+          "driveHoursSaturday": "00:00 - 00:00",
+          "driveHoursSunday": "00:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030450"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030450",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5324431,
+          25.04009321
+        ]
+      },
+      "properties": {
+        "name": "台北濟南",
+        "shortDescription": "#156 Ji Nan, Taipei",
+        "longDescription": "Ji Nan, Taipei",
+        "todayHours": "06:00 - 00:00",
+        "id": "195500096865:zh-TW",
+        "filterType": [
+          "3rd party reusable cup",
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "WIFI"
+        ],
+        "addressLine1": "台北市中正區濟南路2段66號1樓",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "100",
+        "customAddress": ", 100",
+        "telephone": "(02)2395-8275       ",
+        "restauranthours": {
+          "hoursMonday": "06:00 - 00:00",
+          "hoursTuesday": "06:00 - 00:00",
+          "hoursWednesday": "06:00 - 00:00",
+          "hoursThursday": "06:00 - 00:00",
+          "hoursFriday": "06:00 - 00:00",
+          "hoursSaturday": "06:00 - 00:00",
+          "hoursSunday": "06:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030156"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030156",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5936195,
+          25.05017811
+        ]
+      },
+      "properties": {
+        "name": "忠孝八",
+        "shortDescription": "#352 Jhong Siao VIII, Taipei",
+        "longDescription": "Jhong Siao VIII, Taipei",
+        "todayHours": "06:00 - 01:00",
+        "id": "195500094540:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "WIFI"
+        ],
+        "addressLine1": "台北市南港區忠孝東路6段438號1樓",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "115",
+        "customAddress": ", 115",
+        "telephone": "(02)2654-6761       ",
+        "restauranthours": {
+          "hoursMonday": "06:00 - 23:30",
+          "hoursTuesday": "06:00 - 01:00",
+          "hoursWednesday": "06:00 - 01:00",
+          "hoursThursday": "06:00 - 01:00",
+          "hoursFriday": "06:00 - 01:00",
+          "hoursSaturday": "06:00 - 01:00",
+          "hoursSunday": "06:00 - 01:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030352"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030352",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5333377,
+          25.0180454
+        ]
+      },
+      "properties": {
+        "name": "台北新生(含現烤法點)",
+        "shortDescription": "#005 Sin Sheng, Taipei",
+        "longDescription": "Sin Sheng, Taipei",
+        "todayHours": "00:00 - 00:00",
+        "id": "195500095004:zh-TW",
+        "filterType": [
+          "3rd party reusable cup",
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "dine in reusable cup",
+          "GIFTCARDS",
+          "MCCAFE",
+          "TWENTYFOURHOURS",
+          "WIFI"
+        ],
+        "addressLine1": "台北市大安區新生南路3段88之2號",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "106",
+        "customAddress": ", 106",
+        "telephone": "(02)2362-0668       ",
+        "restauranthours": {
+          "hoursMonday": "00:00 - 00:00",
+          "hoursTuesday": "00:00 - 00:00",
+          "hoursWednesday": "00:00 - 00:00",
+          "hoursThursday": "00:00 - 00:00",
+          "hoursFriday": "00:00 - 00:00",
+          "hoursSaturday": "00:00 - 00:00",
+          "hoursSunday": "00:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030005"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030005",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.535101,
+          25.014641
+        ]
+      },
+      "properties": {
+        "name": "台北台大(含現烤法點)",
+        "shortDescription": "#456 NTU, Taipei",
+        "longDescription": "NTU, Taipei",
+        "todayHours": "07:00 - 22:00",
+        "id": "195500800301:zh-TW",
+        "filterType": [
+          "3rd party reusable cup",
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE"
+        ],
+        "addressLine1": "大安區羅斯福路四段1號1樓之台灣大學第一學生活動中心賣場",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "106",
+        "customAddress": ", 106",
+        "telephone": "(02)2362-1290       ",
+        "restauranthours": {
+          "hoursMonday": "07:00 - 22:00",
+          "hoursTuesday": "07:00 - 22:00",
+          "hoursWednesday": "07:00 - 22:00",
+          "hoursThursday": "07:00 - 22:00",
+          "hoursFriday": "07:00 - 22:00",
+          "hoursSaturday": "07:00 - 22:00",
+          "hoursSunday": "07:00 - 22:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030456"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030456",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.53427,
+          25.014631
+        ]
+      },
+      "properties": {
+        "name": "台北公館",
+        "shortDescription": "#460 Gong Guan, Taipei",
+        "longDescription": "Gong Guan, Taipei",
+        "todayHours": "06:00 - 00:00",
+        "id": "195500795737:zh-TW",
+        "filterType": [
+          "3rd party reusable cup",
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "WIFI"
+        ],
+        "addressLine1": "台北市中正區羅斯福路四段76-1號",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "100",
+        "customAddress": ", 100",
+        "telephone": "(02)2366-1123       ",
+        "restauranthours": {
+          "hoursMonday": "06:00 - 00:00",
+          "hoursTuesday": "06:00 - 00:00",
+          "hoursWednesday": "06:00 - 00:00",
+          "hoursThursday": "06:00 - 00:00",
+          "hoursFriday": "06:00 - 00:00",
+          "hoursSaturday": "06:00 - 00:00",
+          "hoursSunday": "06:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030460"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030460",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5460883,
+          25.06182536
+        ]
+      },
+      "properties": {
+        "name": "民權一",
+        "shortDescription": "#109 Min Cyuan, Taipei",
+        "longDescription": "Min Cyuan, Taipei",
+        "todayHours": "00:00 - 00:00",
+        "id": "195500097343:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "TWENTYFOURHOURS",
+          "WIFI"
+        ],
+        "addressLine1": "台北市松山區民權東路3段128號1樓",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "105",
+        "customAddress": ", 105",
+        "telephone": "(02)2717-7152       ",
+        "restauranthours": {
+          "hoursMonday": "00:00 - 00:00",
+          "hoursTuesday": "00:00 - 00:00",
+          "hoursWednesday": "00:00 - 00:00",
+          "hoursThursday": "00:00 - 00:00",
+          "hoursFriday": "00:00 - 00:00",
+          "hoursSaturday": "00:00 - 00:00",
+          "hoursSunday": "00:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030109"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030109",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5558904,
+          25.00014075
+        ]
+      },
+      "properties": {
+        "name": "台北興隆",
+        "shortDescription": "#139 Sing Long, Taipei",
+        "longDescription": "Sing Long, Taipei",
+        "todayHours": "00:00 - 00:00",
+        "id": "195500096728:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "WIFI"
+        ],
+        "addressLine1": "台北市文山區興隆路3段54號",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "116",
+        "customAddress": ", 116",
+        "telephone": "(02)2933-6260       ",
+        "restauranthours": {
+          "hoursMonday": "06:00 - 00:00",
+          "hoursTuesday": "00:00 - 00:00",
+          "hoursWednesday": "00:00 - 00:00",
+          "hoursThursday": "00:00 - 00:00",
+          "hoursFriday": "00:00 - 00:00",
+          "hoursSaturday": "00:00 - 00:00",
+          "hoursSunday": "00:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030139"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030139",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5338497,
+          25.05469247
+        ]
+      },
+      "properties": {
+        "name": "長春(含現烤法點)",
+        "shortDescription": "#043 Chang Chun, Taipei",
+        "longDescription": "Chang Chun, Taipei",
+        "todayHours": "06:00 - 00:00",
+        "id": "195500094946:zh-TW",
+        "filterType": [
+          "3rd party reusable cup",
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "WIFI"
+        ],
+        "addressLine1": "台北市中山區長春路172號",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "104",
+        "customAddress": ", 104",
+        "telephone": "(02)2504-2797       ",
+        "restauranthours": {
+          "hoursMonday": "06:00 - 00:00",
+          "hoursTuesday": "06:00 - 00:00",
+          "hoursWednesday": "06:00 - 00:00",
+          "hoursThursday": "06:00 - 00:00",
+          "hoursFriday": "06:00 - 00:00",
+          "hoursSaturday": "06:00 - 00:00",
+          "hoursSunday": "06:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030043"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030043",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5788795,
+          24.9988582
+        ]
+      },
+      "properties": {
+        "name": "台北動物園三",
+        "shortDescription": "#429 Zoo Mall III, Taipei",
+        "longDescription": "Zoo Mall III, Taipei",
+        "todayHours": "09:00 - 17:00",
+        "id": "195500755564:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "GIFTCARDS",
+          "MCCAFE"
+        ],
+        "addressLine1": "台北市文山區新光路二段30號台北市立動物園前區1F",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "116",
+        "customAddress": ", 116",
+        "telephone": "(02)8661-7111       ",
+        "restauranthours": {
+          "hoursMonday": "09:00 - 17:00",
+          "hoursTuesday": "09:00 - 17:00",
+          "hoursWednesday": "09:00 - 17:00",
+          "hoursThursday": "09:00 - 17:00",
+          "hoursFriday": "09:00 - 17:00",
+          "hoursSaturday": "09:00 - 17:00",
+          "hoursSunday": "09:00 - 17:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030429"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030429",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5223465,
+          25.0275174
+        ]
+      },
+      "properties": {
+        "name": "羅斯福(含現烤法點)",
+        "shortDescription": "#018 Roosevelt, Taipei",
+        "longDescription": "Roosevelt, Taipei",
+        "todayHours": "00:00 - 00:00",
+        "driveTodayHours": "00:00 - 00:00",
+        "id": "195500097084:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "TWENTYFOURHOURS",
+          "WIFI"
+        ],
+        "addressLine1": "台北市大安區羅斯福路2段45號",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "106",
+        "customAddress": ", 106",
+        "telephone": "(02)2393-0023       ",
+        "restauranthours": {
+          "hoursMonday": "00:00 - 00:00",
+          "hoursTuesday": "00:00 - 00:00",
+          "hoursWednesday": "00:00 - 00:00",
+          "hoursThursday": "00:00 - 00:00",
+          "hoursFriday": "00:00 - 00:00",
+          "hoursSaturday": "00:00 - 00:00",
+          "hoursSunday": "00:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030018"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030018",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5233575,
+          25.04442717
+        ]
+      },
+      "properties": {
+        "name": "林森二旗艦專櫃(含現烤法點)",
+        "shortDescription": "#056 Lin Sen II, Taipei",
+        "longDescription": "Lin Sen II, Taipei",
+        "todayHours": "00:00 - 00:00",
+        "id": "195500095073:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "WIFI"
+        ],
+        "addressLine1": "台北市中正區林森南路1號",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "100",
+        "customAddress": ", 100",
+        "telephone": "(02)2391-1196       ",
+        "restauranthours": {
+          "hoursMonday": "06:00 - 00:00",
+          "hoursTuesday": "00:00 - 00:00",
+          "hoursWednesday": "00:00 - 00:00",
+          "hoursThursday": "00:00 - 00:00",
+          "hoursFriday": "00:00 - 00:00",
+          "hoursSaturday": "00:00 - 00:00",
+          "hoursSunday": "00:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030056"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030056",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5256176,
+          25.0519182
+        ]
+      },
+      "properties": {
+        "name": "林森一旗艦專櫃(含現烤法點)",
+        "shortDescription": "#004 Lin Sen I, Taipei",
+        "longDescription": "Lin Sen I, Taipei",
+        "todayHours": "00:00 - 00:00",
+        "id": "195500094908:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "dine in reusable cup",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "WIFI"
+        ],
+        "addressLine1": "台北市中山區南京東路1段86號",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "104",
+        "customAddress": ", 104",
+        "telephone": "(02)2537-4880       ",
+        "restauranthours": {
+          "hoursMonday": "00:00 - 00:00",
+          "hoursTuesday": "00:00 - 00:00",
+          "hoursWednesday": "00:00 - 00:00",
+          "hoursThursday": "00:00 - 00:00",
+          "hoursFriday": "06:00 - 00:00",
+          "hoursSaturday": "00:00 - 00:00",
+          "hoursSunday": "00:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030004"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030004",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.6057841,
+          25.05431837
+        ]
+      },
+      "properties": {
+        "name": "台北南港",
+        "shortDescription": "#276 Nan Gang, Taipei",
+        "longDescription": "Nan Gang, Taipei",
+        "todayHours": "06:00 - 00:00",
+        "id": "195500095202:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "WIFI"
+        ],
+        "addressLine1": "台北市南港區南港路2段16號1樓",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "115",
+        "customAddress": ", 115",
+        "telephone": "(02)2789-0595       ",
+        "restauranthours": {
+          "hoursMonday": "06:00 - 00:00",
+          "hoursTuesday": "06:00 - 00:00",
+          "hoursWednesday": "06:00 - 00:00",
+          "hoursThursday": "06:00 - 00:00",
+          "hoursFriday": "06:00 - 00:00",
+          "hoursSaturday": "06:00 - 00:00",
+          "hoursSunday": "06:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030276"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030276",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5186598,
+          25.02943272
+        ]
+      },
+      "properties": {
+        "name": "台北南昌",
+        "shortDescription": "#170 Nan Chang, Taipei",
+        "longDescription": "Nan Chang, Taipei",
+        "todayHours": "06:00 - 23:00",
+        "id": "195500097008:zh-TW",
+        "filterType": [
+          "3rd party reusable cup",
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "WIFI"
+        ],
+        "addressLine1": "台北市中正區南昌路1段149號1樓",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "100",
+        "customAddress": ", 100",
+        "telephone": "(02)2351-8531       ",
+        "restauranthours": {
+          "hoursMonday": "06:00 - 23:00",
+          "hoursTuesday": "06:00 - 23:00",
+          "hoursWednesday": "06:00 - 23:00",
+          "hoursThursday": "06:00 - 23:00",
+          "hoursFriday": "06:00 - 23:00",
+          "hoursSaturday": "06:00 - 23:00",
+          "hoursSunday": "06:00 - 23:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030170"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030170",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5304708,
+          25.06275925
+        ]
+      },
+      "properties": {
+        "name": "台北民權二",
+        "shortDescription": "#117 Min Cyuan II, Taipei",
+        "longDescription": "Min Cyuan II, Taipei",
+        "todayHours": "00:00 - 00:00",
+        "id": "195500097435:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "TWENTYFOURHOURS",
+          "WIFI"
+        ],
+        "addressLine1": "台北市中山區民權東路2段43號1樓",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "104",
+        "customAddress": ", 104",
+        "telephone": "(02)2591-0105       ",
+        "restauranthours": {
+          "hoursMonday": "00:00 - 00:00",
+          "hoursTuesday": "00:00 - 00:00",
+          "hoursWednesday": "00:00 - 00:00",
+          "hoursThursday": "00:00 - 00:00",
+          "hoursFriday": "00:00 - 00:00",
+          "hoursSaturday": "00:00 - 00:00",
+          "hoursSunday": "00:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030117"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030117",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5664791,
+          24.98864169
+        ]
+      },
+      "properties": {
+        "name": "台北木柵",
+        "shortDescription": "#182 Mu Jha, Taipei",
+        "longDescription": "Mu Jha, Taipei",
+        "todayHours": "06:00 - 23:59",
+        "id": "195500097114:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "WIFI"
+        ],
+        "addressLine1": "文山區木柵路3段57號1樓",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "postcode": "116",
+        "customAddress": ", 116",
+        "telephone": "(02)2939-4168       ",
+        "restauranthours": {
+          "hoursMonday": "06:00 - 23:59",
+          "hoursTuesday": "06:00 - 23:59",
+          "hoursWednesday": "06:00 - 23:59",
+          "hoursThursday": "06:00 - 23:59",
+          "hoursFriday": "06:00 - 23:59",
+          "hoursSaturday": "06:00 - 23:59",
+          "hoursSunday": "06:00 - 23:59"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030182"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "identifierValue": "1030182",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.52065736,
+          25.05196687
+        ]
+      },
+      "properties": {
+        "name": "南西誠品旗艦專櫃(含現烤法點)",
+        "shortDescription": "#520 Eslite-Nan Si, Taipei",
+        "longDescription": "Eslite-Nan Si, Taipei",
+        "todayHours": "07:00 - 23:00",
+        "id": "195500803494:zh-TW",
+        "filterType": [
+          "BREAKFAST",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK"
+        ],
+        "addressLine1": "台北巿中山區南京西路14號1F+B1",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "104",
+        "customAddress": ", 104",
+        "telephone": "(02)2567-2058",
+        "restauranthours": {
+          "hoursMonday": "07:00 - 23:00",
+          "hoursTuesday": "07:00 - 23:00",
+          "hoursWednesday": "07:00 - 23:00",
+          "hoursThursday": "07:00 - 23:00",
+          "hoursFriday": "07:00 - 23:00",
+          "hoursSaturday": "07:00 - 23:00",
+          "hoursSunday": "07:00 - 23:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030520"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030520",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5257128,
+          25.05977522
+        ]
+      },
+      "properties": {
+        "name": "林森三(含現烤法點)",
+        "shortDescription": "#077 Lin Sen III, Taipei",
+        "longDescription": "Lin Sen III, Taipei",
+        "todayHours": "00:00 - 00:00",
+        "id": "195500094199:zh-TW",
+        "filterType": [
+          "AppCoupons",
+          "BREAKFAST",
+          "CONTACTLESS",
+          "CreditCard",
+          "GIFTCARDS",
+          "MCCAFE",
+          "SELFORDERKIOSK",
+          "WIFI"
+        ],
+        "addressLine1": "台北市中山區林森北路413號1樓",
+        "addressLine3": "",
+        "addressLine4": "台灣",
+        "subDivision": "",
+        "postcode": "104",
+        "customAddress": ", 104",
+        "telephone": "(02)2567-7038       ",
+        "restauranthours": {
+          "hoursMonday": "00:00 - 00:00",
+          "hoursTuesday": "00:00 - 00:00",
+          "hoursWednesday": "00:00 - 00:00",
+          "hoursThursday": "06:00 - 00:00",
+          "hoursFriday": "00:00 - 00:00",
+          "hoursSaturday": "00:00 - 00:00",
+          "hoursSunday": "00:00 - 00:00"
+        },
+        "identifiers": {
+          "storeIdentifier": [
+            {
+              "identifierType": "LocalRefNum",
+              "identifierValue": "1030077"
+            }
+          ]
+        },
+        "birthDaysParties": "0",
+        "driveThru": "0",
+        "outDoorPlayGround": "0",
+        "indoorPlayGround": "0",
+        "wifi": "0",
+        "breakFast": "0",
+        "nightMenu": "0",
+        "giftCards": "0",
+        "mobileOffers": "0",
+        "openstatus": "OPEN",
+        "crossStreets": "",
+        "identifierValue": "1030077",
+        "timeZone": "(GMT+08:00) Taipei"
+      }
+    }
+  ]
+}
